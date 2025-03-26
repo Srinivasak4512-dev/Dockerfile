@@ -4,6 +4,6 @@
 
 FROM almalinux:9
 LABEL author="Srinivasak" \
-      company= "joindevops" \
+      company="joindevops" \
       topic="dockerfiles" \
       duration="2 hours"
