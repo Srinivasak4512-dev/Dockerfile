@@ -3,7 +3,7 @@
 #These variables can be used in subsequent Dockerfile instructions and accessed by applications running inside the container.
 
 
-FROM almalinnux:9
+FROM almalinux:9
 ENV course="DevOps with AWS" \
     trainer="sivakumar reddy" \
     duration="120hrs"
